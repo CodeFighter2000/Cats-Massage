@@ -1,0 +1,1 @@
+This is a home project for code cademy's company home page lesson.
